@@ -1,14 +1,7 @@
-Asbes
-Baterai
-Handphone
-Kamper
-Lampu
-Masker Medis
-Obat Obatan
-PCB
-Pipa pvc
-Rokok
-Rokok elektrik
-Styrofoam
-Termometer
-Tv
+Carcinogenic Tetragenic Mutagenic
+Dangerous For Environment
+Harmful
+Infectious
+Non hazard
+Pressure Gas
+Toxic
